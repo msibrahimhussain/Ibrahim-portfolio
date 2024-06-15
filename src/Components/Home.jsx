@@ -45,8 +45,8 @@ Home.defaultProps = {
 };
 
 Home.propTypes = {
-  name: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired,
+  name: "Ibrahim",
+  title: "MERN Stack Developer",
 };
 
 export default Home;
