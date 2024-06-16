@@ -33,20 +33,20 @@ const projectList = [
   {
     title: "Money Manager",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a Money Manager app that tracks and manages asset and liability transactions.",
+    url: "https://ojh.ccbp.tech",
   },
   {
     title: "Emoji Game",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This game features unique emojis. Each time an emoji is selected, the emojis on the screen shuffle, and the score is displayed in a pop-up.",
+    url: "https://emogme.ccbp.tech",
   },
   {
     title: "Prime Video",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a Prime Video app featuring various movie categories. Upon selecting a movie, a pop-up appears and plays the chosen video.",
+    url: "https://ufjch.ccbp.tech",
   },
   {
     title: "Coin Toss Game",
